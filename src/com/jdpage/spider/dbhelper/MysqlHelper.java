@@ -33,7 +33,7 @@ public class MysqlHelper {
     private String url = "jdbc:mysql://127.0.0.1:3306/jd";
     // user name and password
     private String user = "root";
-    private String password = "chenbin-";
+    private String password = "qingjiaowomasaike";
 
     public MysqlHelper() {
         initPreStmts();
